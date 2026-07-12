@@ -1,0 +1,7 @@
+interface:
+  display_name: "产品决策简报"
+  short_description: "把模糊功能想法整理成团队能拍板的简报"
+  default_prompt: "使用 $product-brief-builder 把这个产品想法整理成决策简报，明确证据、范围、风险和未决问题。"
+
+policy:
+  allow_implicit_invocation: true
